@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Laba_7_Eskin/1.0.0": {
+        "dependencies": {
+          "FigureLibrary": "1.0.0"
+        },
+        "runtime": {
+          "Laba_7_Eskin.dll": {}
+        }
+      },
+      "FigureLibrary/1.0.0": {
+        "runtime": {
+          "FigureLibrary.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Laba_7_Eskin/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FigureLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

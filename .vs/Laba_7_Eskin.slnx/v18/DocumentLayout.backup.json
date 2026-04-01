@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041D\u0438\u043A\u0438\u0442\u0430\\source\\repos\\Laba_7_Eskin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A46BCAC-DC7C-4771-95E9-B26BB96BEC1F}|FigureLibrary\\FigureLibrary.csproj|c:\\users\\\u043D\u0438\u043A\u0438\u0442\u0430\\source\\repos\\laba_7_eskin\\figurelibrary\\figure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A46BCAC-DC7C-4771-95E9-B26BB96BEC1F}|FigureLibrary\\FigureLibrary.csproj|solutionrelative:figurelibrary\\figure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E089389-5679-4AED-B42D-AFEEA3FFEF1B}|Laba_7_Eskin\\Laba_7_Eskin.csproj|c:\\users\\\u043D\u0438\u043A\u0438\u0442\u0430\\source\\repos\\laba_7_eskin\\laba_7_eskin\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E089389-5679-4AED-B42D-AFEEA3FFEF1B}|Laba_7_Eskin\\Laba_7_Eskin.csproj|solutionrelative:laba_7_eskin\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E089389-5679-4AED-B42D-AFEEA3FFEF1B}|Laba_7_Eskin\\Laba_7_Eskin.csproj|c:\\users\\\u043D\u0438\u043A\u0438\u0442\u0430\\source\\repos\\laba_7_eskin\\laba_7_eskin\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8E089389-5679-4AED-B42D-AFEEA3FFEF1B}|Laba_7_Eskin\\Laba_7_Eskin.csproj|solutionrelative:laba_7_eskin\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Figure.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0438\u043A\u0438\u0442\u0430\\source\\repos\\Laba_7_Eskin\\FigureLibrary\\Figure.cs",
+              "RelativeDocumentMoniker": "FigureLibrary\\Figure.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0438\u043A\u0438\u0442\u0430\\source\\repos\\Laba_7_Eskin\\FigureLibrary\\Figure.cs*",
+              "RelativeToolTip": "FigureLibrary\\Figure.cs*",
+              "ViewState": "AgIAADUAAAAAAAAAAAAmwEEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T20:03:48.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0438\u043A\u0438\u0442\u0430\\source\\repos\\Laba_7_Eskin\\Laba_7_Eskin\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Laba_7_Eskin\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\\u041D\u0438\u043A\u0438\u0442\u0430\\source\\repos\\Laba_7_Eskin\\Laba_7_Eskin\\MainWindow.xaml",
+              "RelativeToolTip": "Laba_7_Eskin\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-10T13:17:56.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0438\u043A\u0438\u0442\u0430\\source\\repos\\Laba_7_Eskin\\Laba_7_Eskin\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Laba_7_Eskin\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0438\u043A\u0438\u0442\u0430\\source\\repos\\Laba_7_Eskin\\Laba_7_Eskin\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Laba_7_Eskin\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAowIEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T13:17:56.061Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

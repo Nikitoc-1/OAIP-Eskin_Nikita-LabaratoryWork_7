@@ -1,0 +1,11 @@
+C:\Users\Никита\source\repos\Laba_7_Eskin\FigureLibrary\obj\Debug\net10.0-windows\FigureLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Никита\source\repos\Laba_7_Eskin\FigureLibrary\obj\Debug\net10.0-windows\FigureLibrary.AssemblyInfoInputs.cache
+C:\Users\Никита\source\repos\Laba_7_Eskin\FigureLibrary\obj\Debug\net10.0-windows\FigureLibrary.AssemblyInfo.cs
+C:\Users\Никита\source\repos\Laba_7_Eskin\FigureLibrary\obj\Debug\net10.0-windows\FigureLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Никита\source\repos\Laba_7_Eskin\FigureLibrary\bin\Debug\net10.0-windows\FigureLibrary.deps.json
+C:\Users\Никита\source\repos\Laba_7_Eskin\FigureLibrary\bin\Debug\net10.0-windows\FigureLibrary.dll
+C:\Users\Никита\source\repos\Laba_7_Eskin\FigureLibrary\bin\Debug\net10.0-windows\FigureLibrary.pdb
+C:\Users\Никита\source\repos\Laba_7_Eskin\FigureLibrary\obj\Debug\net10.0-windows\FigureLibrary.dll
+C:\Users\Никита\source\repos\Laba_7_Eskin\FigureLibrary\obj\Debug\net10.0-windows\refint\FigureLibrary.dll
+C:\Users\Никита\source\repos\Laba_7_Eskin\FigureLibrary\obj\Debug\net10.0-windows\FigureLibrary.pdb
+C:\Users\Никита\source\repos\Laba_7_Eskin\FigureLibrary\obj\Debug\net10.0-windows\ref\FigureLibrary.dll
